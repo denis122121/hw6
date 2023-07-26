@@ -711,6 +711,7 @@ position: absolute;
 top: 50%;
 left: 16px;
 transform: translateY(-50%);
+fill: red;
 }
 .reviev-form-field-input-wrapper{
     position: relative;
