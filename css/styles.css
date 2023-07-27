@@ -868,7 +868,7 @@ fill: var(--global-color-blue);
 }
 
 .textarea-form:focus {
-    border-color: var(--accent-color);
+    border-color: var(--global-color-blue);
 }
 
 .checkbox-container {
