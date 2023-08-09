@@ -192,6 +192,8 @@ color: var(--active-button);
     background-repeat: no-repeat;
     background-position: center;
     
+   
+    
 }
 .hero-text {
     font-size: 56px;
@@ -252,6 +254,7 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .feature-list {
     display: flex;
     gap: 24px;
+
 }
 .subtitle {
     font-size: 16px;
