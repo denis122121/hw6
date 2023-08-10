@@ -601,7 +601,7 @@ display: flex;
 }
 .fingre-list{
     /* margin-top: 32px; */
-    border: 1px solid #e7e9fc;
+    /* border: 1px solid #e7e9fc; */
     margin-bottom: 8px;
     color: var(--second-text-color);
     font-size: 20px;
