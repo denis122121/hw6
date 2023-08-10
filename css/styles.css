@@ -838,7 +838,7 @@ transform: translateY(-50%);
 
 .icon-modal {
     position: absolute;
-    fill: var(--primary-color);
+    fill: var(--costumers-color);
     top: 50%;
     left: 16px;
     transform: translateY(-50%);
