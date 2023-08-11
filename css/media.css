@@ -26,6 +26,12 @@ width: calc((100% - 72px) / 2);
    .feature-list{
    gap: 72px 24px;
    }
+  .section-employee-item{
+flex-direction: row;
+flex-wrap: wrap;
+gap: 64px 24px;
+justify-content: center;
+  } 
 }
 @media screen and (min-width:1440px) {
  .container {
