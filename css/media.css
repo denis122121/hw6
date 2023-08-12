@@ -18,7 +18,12 @@
     .container {
         max-width: 766px;
     }
-
+.menu-item{
+display: block;
+}
+.address{
+    display: block;
+}
    .feature-list-item{
 width: calc((100% - 72px) / 2);
 
@@ -32,10 +37,13 @@ flex-wrap: wrap;
 gap: 64px 24px;
 justify-content: center;
   } 
+.menu-open-btn{
+    display: none;
 }
-@media screen and (min-width:1440px) {
+}
+@media screen and (min-width:1158px) {
  .container {
- max-width: 1440px;}
+ max-width: 1158px;}
  .feature-list-item {
  width: calc((100% - 72px) / 4);}
  .second-section-icon{
