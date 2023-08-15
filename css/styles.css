@@ -421,7 +421,7 @@ position: relative;
 .section-employee-item {
     display: flex;
     gap: 24px;
-
+flex-wrap: wrap;
 }
 .employee-item-conteiner{
    
@@ -803,7 +803,7 @@ display: flex;
     border-radius: 4px;
     color: var(--background-color-white);
     background-color: var(--global-color-blue);
-
+    margin-left: 24px;
 }
 .subscribe-svg{
     margin-left: 16px;

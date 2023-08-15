@@ -64,6 +64,36 @@ font-size: 56px;
         flex-wrap: wrap;
         gap: 72px 24px;
 }
+.footer-container{
+    gap: 72px 24px;
+        flex-direction: row;
+        align-items: baseline;
+}
+.div-text-logo{
+    margin-left: 108px;
+    padding-right: 24px;
+}
+.footer-subscribe-block{
+    margin-left: 108px;
+}
+.subscribe-text{
+    margin-left: -180px;
+}
+.subscribe-input{
+    width: 264px;
+}
+.subscribe-button-footer{
+    flex-wrap: wrap;
+}
+.subscribe-form-footer{
+    flex-direction: row;
+    
+    
+}
+.footer-list-social{
+    margin: 0;
+}
+
 }
 @media screen and (min-width:1158px) {
  .container {
@@ -76,7 +106,14 @@ font-size: 56px;
  .apps{
   display: block;
   }
-                
+      .footer-container{
+        margin-left: 156px;
+      } 
+      .address-item{
+        padding-left: 260px;
+      }
+        
+             
 }
 
  
