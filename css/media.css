@@ -112,6 +112,7 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
  width: calc((100% - 72px) / 4);}
  .second-section-icon{
   display:flex;
+  width: 264px;
 }
  .apps{
   display: block;
@@ -133,15 +134,23 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
     }
         .hero {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-desktop-1x.jpg);
-    
+    padding-top: 188px;
+    padding-bottom: 188px;
         }
-          @media screen and (min-device-pixel-ratio: 2),
+          @media scpadding: 120px 0;reen and (min-device-pixel-ratio: 2),
           (min-resolution: 192dpi),
           (min-resolution: 2dppx) {
               .hero {
                   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office-desktop-2x.jpg);
               }
           }
+.feature{
+padding: 120px 0;
+}
+.feature-list{
+    padding: 0;
+    margin: 0;
+}
 }
 
  
